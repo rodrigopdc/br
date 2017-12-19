@@ -1,16 +1,30 @@
-var toggle = document.getElementById('toggle'),
-  wrapper = document.querySelectorAll('.subscribe'),
-  submit = document.getElementById('submit'),
-  success = document.querySelectorAll('.subscribe__success'),
-  content = document.querySelectorAll('.subscribe__wrapper');
+var email = document.getElementById('email'),
+    button = document.getElementById('button');
 
-toggle.addEventListener('click', function() {
-  this.className += ' subscribe__toggle__hidden';
-  wrapper[0].className += ' subscribe-1__active';
+function validateEmail(email) {
+    var ex = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
+    return ex.test(email);
+}
+
+email.addEventListener('keydown', function() {
+  var email = this.value;
+  
+  if(validateEmail(email)) {
+    button.classList.add('is-active');
+  }
 });
 
-submit.addEventListener('click', function() {
-  success[0].className += ' subscribe__success--active';
-  wrapper[0].className += ' subscribe-1__success';
-  content[0].style.display = 'none';
+button.addEventListener('click', function(e){
+  e.preventDefault();
+  this.classList.add('is-done','is-active');
+  
+  setTimeout(function(){ 
+    button.innerHTML = "Thanks! Check Your Email."
+  }, 500);
 });
+
+
+
+
+
+
