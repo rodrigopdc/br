@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/rodrigopdc/br/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/rodrigopdc/br/edit/master/index.md) to maintain and preview the content 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -8,77 +8,3 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-<div class="container">
-<svg  xmlns="http://www.w3.org/2000/svg" width="600px" height="600px" viewBox="0 0 600 600">
-<defs>
-  <mask id="ringMask">
-  <rect width="1200" height="600" fill="#FFF" /> 
-	<path class="smallHand" stroke="none" fill="#000" stroke-width="8" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M339,458c0,0-24,0-28.5,0c-8.6,0-14.4-4.8-20.1-13c-9.2-13.1-32-49.7-32-49.7s-11.8-16.2,0-23.8c9.2-5.9,14.8-3.6,20,5
-		c3.5,5.8,8.5,12.3,8.5,12.3s0-50.2,0-54.8c0-4.5-0.9-15.9,17.5-15.9c14.6,0,14.5,13.4,14.5,15.1s0,1.4,0,6.5c3-3.6,21.8-5.8,24,5.8
-		c3.7-5,20-4.3,20.7,10.1c6.7-5,13.3,0,13.3,6.5c0,6.5,0,39.3,0,44c0,4.7,0.5,16.8-5.2,32.3C367.9,446.9,359.3,458,339,458"/>    
-    
-  </mask>  
-  
-  <mask id="messageMask">
-    
-			<path class="messageOutline" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="			M364.9,307.6H240.5v-77.7h124.4V307.6z"/>    
-  </mask>
-<mask id="circleMask">
-  <rect width="600" height="600" fill="#FFFFFF"/>
-		<circle id="hideRing" fill="#000" stroke="#000" stroke-width="8" stroke-linejoin="round" stroke-miterlimit="10" cx="303" cy="300" r="0"/>
-  <circle id="showRing" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="8" stroke-linejoin="round" stroke-miterlimit="10" cx="303" cy="300" r="0"/>  
-  </mask>
-</defs>
-  <g id="emailLinesGroup" stroke-linecap="round" stroke-linejoin="round"stroke-width="6"  >
-    <line x1="260" x2="260" y1="10" y2="150" />
-    <line x1="310" x2="310" y1="90" y2="180" />
-    <line x1="360" x2="360" y1="70" y2="120" />
-  </g>
-<g id="messageGroup" mask="url(#ringMask)">
-	<g id="emailGroup" mask="url(#circleMask)">
-			<path class="messageOutline" id="messageOutline" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="			M364.9,307.6H240.5v-77.7h124.4V307.6z"/>
-		<g id="maskedMessageFlap" mask="url(#messageMask)">
-			<path id="messageFlap" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="			M242.1,234.1l61.4,61.4l59.8-61.4"/>
-    </g>
-	</g>
-	<g id="planeGroup" >
-	<path id="planeBot" fill="none" d="M269,252.4v42.7l33.4-25.6"/>
-	<path id="planeBody" fill="none" d="M329.6,287.4L287.2,257l-57.1-15.5L354.8,212L329.6,287.4z M354.8,212l-67.6,44.7"/>
-</g>
-</g>
-<g id="handGroup" >
-	<path id="bigHand" fill="none" stroke="none" stroke-width="8" stroke-linejoin="round" stroke-miterlimit="10" d="M339,458
-		c0,0-24,0-28.5,0c-8.6,0-14.4-4.8-20.1-13c-9.2-13.1-32-52.6-32-52.6s-11.8-16.2,0-23.8c9.2-5.9,14.8-3.6,20,5
-		c3.5,5.8,8.5,15.1,8.5,15.1s0-79.1,0-83.6c0-4.5-0.9-15.9,17.5-15.9c14.6,0,14.5,13.4,14.5,15.1c0,1.7,0,30.3,0,35.3
-		c3-3.6,21.8-5.8,24,5.8c3.7-5,20-4.3,20.7,10.1c6.7-5,13.3,0,13.3,6.5c0,6.5,0,39.3,0,44c0,4.7,0.5,16.8-5.2,32.3
-		C367.9,446.9,359.3,458,339,458"/>
-	<path class="smallHand" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M339,458c0,0-24,0-28.5,0c-8.6,0-14.4-4.8-20.1-13c-9.2-13.1-32-49.7-32-49.7s-11.8-16.2,0-23.8c9.2-5.9,14.8-3.6,20,5
-		c3.5,5.8,8.5,12.3,8.5,12.3s0-50.2,0-54.8c0-4.5-0.9-15.9,17.5-15.9c14.6,0,14.5,13.4,14.5,15.1s0,1.4,0,6.5c3-3.6,21.8-5.8,24,5.8
-		c3.7-5,20-4.3,20.7,10.1c6.7-5,13.3,0,13.3,6.5c0,6.5,0,39.3,0,44c0,4.7,0.5,16.8-5.2,32.3C367.9,446.9,359.3,458,339,458"/>
-</g>
-
-<g mask="url(#ringMask)">  
-  <g id="ringGroup" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linejoin="round" stroke-miterlimit="10">
-	
-		<circle class="ring"  cx="303" cy="300" r="0"/>
-	
-		<circle class="ring" cx="303" cy="300" r="0"/>
-	
-		<circle class="ring" cx="303" cy="300" r="0"/>
-</g>
-</g>  
-<g id="speedCurlGroup" opacity="1" stroke-width="3" fill="none" >
-  <path class="speedCurl"  stroke-miterlimit="10" d="M422,203.3c0,0,39.7-6.5,56-26"/>  
-	<path class="speedCurl"stroke-miterlimit="10" d="M395,239.5		c10.8,0.2,32.8-8.8,35.2-15.7c1.1-3,1.6-8.4-1.7-11.5c-3.8-3.7-11.3-2.8-14.9,1.3c-3.5,4-3.2,11,0,14.4c6.9,7.4,30.5-7.4,37.2-11.5
-		c11.5-7.1,29.1-20.4,45-45.2"/>
-
-
-</g>
-
-</svg>
-
-  
-  
-</div>
