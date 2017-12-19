@@ -8,12 +8,5 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-<div class="wrapper">
-  <div class="content">
-    <div class="img"></div>
-    <div class="text">
-      <div class="line title"></div>
-      <div class="line subtitle"></div>
-    </div>
-  </div>
-</div>
+<div class="wasteland"></div>
+<div class="glass"></div>
