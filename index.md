@@ -35,7 +35,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
                     <img src="http://www.foodbanknyc.org/_gfx_/icon-linkedin.png" alt="Linkedin Icon">
                 </a>
             </div>
-</div><div class="social-icons">
-            <div class="social-icons-image">
-                <a href="http://www.instagram.com">
-                    <img src="http://tazindaniels.com/wp-content/uploads/2014/10/instagram-transparent.png" alt="Instagram 
+</div>
